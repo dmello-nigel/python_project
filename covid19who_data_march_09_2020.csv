@@ -1,4 +1,4 @@
-Region,Confirmed_cases,New_confirmed_cases,Deaths,Region
+Country,Confirmed_cases,New_confirmed_cases,Deaths,Region
 China,80904,45,3123,Asia
 Republic of Korea,7382,248,51,Western Pacific
 Japan ,488,33,7,Western Pacific
